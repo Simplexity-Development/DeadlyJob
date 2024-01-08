@@ -27,3 +27,9 @@ Remove custom boombox songs and multiple other mods
 <br>[-] Removes mods that are now redundant due to lethal utilities 
 <br>[-] Removes Lethal Variables
 
+### 1.1.4
+[+] Re-Add skinwalker mod
+[+] Change out terminal command mods
+[+] Add mod to fix guns not working on mouthdogs
+[+] Add mod to fix not being able to grab things in doorways
+[+] Add more suits

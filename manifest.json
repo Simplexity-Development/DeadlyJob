@@ -1,6 +1,6 @@
 {
   "name": "DeadlyJob",
-  "version_number": "1.1.3",
+  "version_number": "1.1.4",
   "website_url": "",
   "description": "Just a modpack for some friends so I don't keep needing to send updated links",
   "dependencies": [
@@ -36,7 +36,6 @@
       "Sv_Matt-HideModList-1.0.1",
       "EladNLG-EladsHUD-1.1.0",
       "Rozebud-FOV_Adjust-1.1.1",
-      "malco-Terminal_TP-1.0.1",
       "FlipMods-SkipToMultiplayerMenu-1.0.0",
       "Evaisa-HookGenPatcher-0.0.5",
       "BepInEx-BepInExPack-5.4.2100",
@@ -44,10 +43,7 @@
       "CTNOriginals-CrossHair-1.0.5",
       "NotAtomicBomb-TerminalApi-1.5.0",
       "Ccode_lang-DeathShovel-0.0.5",
-      "anormaltwig-TerminalExtras-1.0.1",
-      "fivetoofive-DetailedScan-1.2.2",
       "299792458-ScanForEnemies-1.2.1",
-      "NotAtomicBomb-Terminal_Clock-1.0.5",
       "Monkeytype-HideChat-1.0.0",
       "5Bit-VoiceHUD-1.0.4",
       "BepInEx-BepInEx_MLLoader-2.1.0",
@@ -68,6 +64,15 @@
       "CodeEnder-Custom_Boombox_Fix-1.2.2",
       "kyxino-LethalUtilities-1.2.11",
       "FlipMods-ObjectVolumeController-1.0.3",
-      "MrMonday-SONGS_THAT_GET_WHITE_PEOPLE_TURNT_PART_2-1.0.1"
+      "MrMonday-SONGS_THAT_GET_WHITE_PEOPLE_TURNT_PART_2-1.0.1",
+      "RugbugRedfern-Skinwalkers-2.0.3",
+      "itsmeowdev-DoorFix-1.0.0",
+      "BeansDev-Neofetch-1.0.4",
+      "Beauver-ExtraTerminalCommands-1.0.0",
+      "Anubis-ExtraDaysToDeadline-2.0.6",
+      "Verity-TooManySuits-1.0.5",
+      "AgentRev-ShootableMouthDogs-1.0.0",
+      "BunyaPineTree-ModelReplacementAPI-2.3.5",
+      "minteii-Cinnamoroll_Suit-1.2.0"
   ]
 }
