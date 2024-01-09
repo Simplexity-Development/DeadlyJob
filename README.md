@@ -33,3 +33,6 @@ Remove custom boombox songs and multiple other mods
 [+] Add mod to fix guns not working on mouthdogs
 [+] Add mod to fix not being able to grab things in doorways
 [+] Add more suits
+
+### 1.1.5 
+Switch out more mods again
