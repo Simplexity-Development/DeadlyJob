@@ -36,3 +36,12 @@ Remove custom boombox songs and multiple other mods
 
 ### 1.1.5 
 Switch out more mods again
+
+### 1.1.6
+Didn't realize the game updated, removed some mods that don't work on the current update or are no longer necessary
+
+### 1.1.7
+Hopefully update for 47, switch out Bigger Lobby for More Company
+
+### 1.1.8
+Add more cosmetics mods and update some mods
